@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Eduardo Matuella 😄
+## Bem-vindo(a) ao meu perfil 😄
 
  <div>
    <a href="https://github.com/montwh1te">
